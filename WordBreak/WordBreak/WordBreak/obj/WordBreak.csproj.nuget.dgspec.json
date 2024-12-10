@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj": {}
+    "D:\\LeetCode\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj": {}
   },
   "projects": {
-    "D:\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj": {
+    "D:\\LeetCode\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj",
+        "projectUniqueName": "D:\\LeetCode\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj",
         "projectName": "WordBreak",
-        "projectPath": "D:\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj",
+        "projectPath": "D:\\LeetCode\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\WordBreak.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\obj\\",
+        "outputPath": "D:\\LeetCode\\ThuatToan\\WordBreak\\WordBreak\\WordBreak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

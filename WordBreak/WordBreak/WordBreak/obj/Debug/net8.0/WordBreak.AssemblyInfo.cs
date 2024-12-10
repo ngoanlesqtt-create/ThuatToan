@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordBreak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f79f9a049061557ecaa201b4b233bc021039d39")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordBreak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordBreak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
