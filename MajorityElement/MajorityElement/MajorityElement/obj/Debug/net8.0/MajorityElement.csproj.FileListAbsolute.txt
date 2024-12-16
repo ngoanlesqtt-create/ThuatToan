@@ -1,0 +1,14 @@
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfoInputs.cache
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfo.cs
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.csproj.CoreCompileInputs.cache
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.exe
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.deps.json
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.runtimeconfig.json
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.dll
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\bin\Debug\net8.0\MajorityElement.pdb
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.dll
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\refint\MajorityElement.dll
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
+D:\LeetCode\MajorityElement\MajorityElement\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll
