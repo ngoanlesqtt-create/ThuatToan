@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\bin\Debug\net8.0\VeHinhTamGiac.exe
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\bin\Debug\net8.0\VeHinhTamGiac.deps.json
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\bin\Debug\net8.0\VeHinhTamGiac.runtimeconfig.json
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\bin\Debug\net8.0\VeHinhTamGiac.dll
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\bin\Debug\net8.0\VeHinhTamGiac.pdb
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.sourcelink.json
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.dll
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\refint\VeHinhTamGiac.dll
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.pdb
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\VeHinhTamGiac.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\NgonNguC\VeHinhTamGiac\obj\Debug\net8.0\ref\VeHinhTamGiac.dll

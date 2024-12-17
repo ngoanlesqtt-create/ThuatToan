@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\bin\Debug\net8.0\SoChinhPhuong.exe
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\bin\Debug\net8.0\SoChinhPhuong.deps.json
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\bin\Debug\net8.0\SoChinhPhuong.runtimeconfig.json
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\bin\Debug\net8.0\SoChinhPhuong.dll
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\bin\Debug\net8.0\SoChinhPhuong.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.sourcelink.json
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.dll
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\refint\SoChinhPhuong.dll
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\SoChinhPhuong.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\NgonNguC\SoChinhPhuong\obj\Debug\net8.0\ref\SoChinhPhuong.dll
