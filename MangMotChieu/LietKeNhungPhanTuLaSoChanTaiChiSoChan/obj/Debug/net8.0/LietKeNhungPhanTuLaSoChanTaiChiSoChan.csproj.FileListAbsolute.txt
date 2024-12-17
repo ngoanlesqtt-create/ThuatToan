@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\bin\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.exe
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\bin\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.deps.json
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\bin\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.runtimeconfig.json
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\bin\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.dll
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\bin\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.sourcelink.json
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.dll
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\refint\LietKeNhungPhanTuLaSoChanTaiChiSoChan.dll
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\LietKeNhungPhanTuLaSoChanTaiChiSoChan.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\MangMotChieu\LietKeNhungPhanTuLaSoChanTaiChiSoChan\obj\Debug\net8.0\ref\LietKeNhungPhanTuLaSoChanTaiChiSoChan.dll

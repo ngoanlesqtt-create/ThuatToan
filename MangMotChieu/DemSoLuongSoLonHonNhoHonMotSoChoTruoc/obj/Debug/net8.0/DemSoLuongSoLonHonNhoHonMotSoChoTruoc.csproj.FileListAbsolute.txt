@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\bin\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.exe
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\bin\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.deps.json
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\bin\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.runtimeconfig.json
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\bin\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.dll
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\bin\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.sourcelink.json
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.dll
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\refint\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.dll
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\MangMotChieu\DemSoLuongSoLonHonNhoHonMotSoChoTruoc\obj\Debug\net8.0\ref\DemSoLuongSoLonHonNhoHonMotSoChoTruoc.dll
