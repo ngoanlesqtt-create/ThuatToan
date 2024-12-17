@@ -1,0 +1,5 @@
+D:\LeetCode\ThuatToan\NgonNguC\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\KiemTraSoNguyenTo\obj\Debug\net8.0\KiemTraSoNguyenTo.sourcelink.json

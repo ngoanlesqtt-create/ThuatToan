@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\bin\Debug\net8.0\SangSoNguyenTo.exe
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\bin\Debug\net8.0\SangSoNguyenTo.deps.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\bin\Debug\net8.0\SangSoNguyenTo.runtimeconfig.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\bin\Debug\net8.0\SangSoNguyenTo.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\bin\Debug\net8.0\SangSoNguyenTo.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.sourcelink.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\refint\SangSoNguyenTo.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\SangSoNguyenTo.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenTo\obj\Debug\net8.0\ref\SangSoNguyenTo.dll

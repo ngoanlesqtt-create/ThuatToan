@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\bin\Debug\net8.0\SangSoNguyenToTrenDoan.exe
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\bin\Debug\net8.0\SangSoNguyenToTrenDoan.deps.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\bin\Debug\net8.0\SangSoNguyenToTrenDoan.runtimeconfig.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\bin\Debug\net8.0\SangSoNguyenToTrenDoan.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\bin\Debug\net8.0\SangSoNguyenToTrenDoan.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.sourcelink.json
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\refint\SangSoNguyenToTrenDoan.dll
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.pdb
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\SangSoNguyenToTrenDoan.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\NgonNguC\SangSoNguyenToTrenDoan\obj\Debug\net8.0\ref\SangSoNguyenToTrenDoan.dll
