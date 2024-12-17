@@ -1,0 +1,14 @@
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.AssemblyInfoInputs.cache
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.AssemblyInfo.cs
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.csproj.CoreCompileInputs.cache
+D:\LeetCode\PalindroneNumber\bin\Debug\net8.0\PalindroneNumber.exe
+D:\LeetCode\PalindroneNumber\bin\Debug\net8.0\PalindroneNumber.deps.json
+D:\LeetCode\PalindroneNumber\bin\Debug\net8.0\PalindroneNumber.runtimeconfig.json
+D:\LeetCode\PalindroneNumber\bin\Debug\net8.0\PalindroneNumber.dll
+D:\LeetCode\PalindroneNumber\bin\Debug\net8.0\PalindroneNumber.pdb
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.dll
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\refint\PalindroneNumber.dll
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.pdb
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\PalindroneNumber.genruntimeconfig.cache
+D:\LeetCode\PalindroneNumber\obj\Debug\net8.0\ref\PalindroneNumber.dll

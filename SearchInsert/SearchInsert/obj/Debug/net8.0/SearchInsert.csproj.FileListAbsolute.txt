@@ -1,0 +1,14 @@
+D:\LeetCode\SearchInsert\SearchInsert\bin\Debug\net8.0\SearchInsert.exe
+D:\LeetCode\SearchInsert\SearchInsert\bin\Debug\net8.0\SearchInsert.deps.json
+D:\LeetCode\SearchInsert\SearchInsert\bin\Debug\net8.0\SearchInsert.runtimeconfig.json
+D:\LeetCode\SearchInsert\SearchInsert\bin\Debug\net8.0\SearchInsert.dll
+D:\LeetCode\SearchInsert\SearchInsert\bin\Debug\net8.0\SearchInsert.pdb
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.AssemblyInfoInputs.cache
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.AssemblyInfo.cs
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.csproj.CoreCompileInputs.cache
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.dll
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\refint\SearchInsert.dll
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.pdb
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\SearchInsert.genruntimeconfig.cache
+D:\LeetCode\SearchInsert\SearchInsert\obj\Debug\net8.0\ref\SearchInsert.dll

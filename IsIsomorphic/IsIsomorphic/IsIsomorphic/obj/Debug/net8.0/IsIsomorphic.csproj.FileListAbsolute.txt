@@ -1,0 +1,4 @@
+D:\LeetCode\IsIsomorphic\IsIsomorphic\IsIsomorphic\obj\Debug\net8.0\IsIsomorphic.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\IsIsomorphic\IsIsomorphic\IsIsomorphic\obj\Debug\net8.0\IsIsomorphic.AssemblyInfoInputs.cache
+D:\LeetCode\IsIsomorphic\IsIsomorphic\IsIsomorphic\obj\Debug\net8.0\IsIsomorphic.AssemblyInfo.cs
+D:\LeetCode\IsIsomorphic\IsIsomorphic\IsIsomorphic\obj\Debug\net8.0\IsIsomorphic.csproj.CoreCompileInputs.cache

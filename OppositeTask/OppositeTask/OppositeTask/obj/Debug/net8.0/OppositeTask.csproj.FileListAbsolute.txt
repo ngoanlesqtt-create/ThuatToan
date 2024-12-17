@@ -1,0 +1,14 @@
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\bin\Debug\net8.0\OppositeTask.exe
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\bin\Debug\net8.0\OppositeTask.deps.json
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\bin\Debug\net8.0\OppositeTask.runtimeconfig.json
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\bin\Debug\net8.0\OppositeTask.dll
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\bin\Debug\net8.0\OppositeTask.pdb
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.AssemblyInfoInputs.cache
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.AssemblyInfo.cs
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.csproj.CoreCompileInputs.cache
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.dll
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\refint\OppositeTask.dll
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.pdb
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\OppositeTask.genruntimeconfig.cache
+D:\LeetCode\OppositeTask\OppositeTask\OppositeTask\obj\Debug\net8.0\ref\OppositeTask.dll

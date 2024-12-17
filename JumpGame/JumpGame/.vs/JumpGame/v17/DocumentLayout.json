@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LeetCode\\JumpGame\\JumpGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862C5684-5D0E-47B0-9DE9-58BE47AE8DD1}|JumpGame\\JumpGame.csproj|d:\\leetcode\\jumpgame\\jumpgame\\jumpgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C5684-5D0E-47B0-9DE9-58BE47AE8DD1}|JumpGame\\JumpGame.csproj|solutionrelative:jumpgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\JumpGame\\JumpGame\\JumpGame\\Program.cs",
+              "RelativeDocumentMoniker": "JumpGame\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\JumpGame\\JumpGame\\JumpGame\\Program.cs",
+              "RelativeToolTip": "JumpGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:54:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
