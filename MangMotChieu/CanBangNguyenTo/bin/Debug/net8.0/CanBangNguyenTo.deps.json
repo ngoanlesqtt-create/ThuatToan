@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CanBangNguyenTo/1.0.0": {
+        "runtime": {
+          "CanBangNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CanBangNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

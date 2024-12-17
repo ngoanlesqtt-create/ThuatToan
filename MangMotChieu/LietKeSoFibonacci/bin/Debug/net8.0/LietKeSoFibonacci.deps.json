@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LietKeSoFibonacci/1.0.0": {
+        "runtime": {
+          "LietKeSoFibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LietKeSoFibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

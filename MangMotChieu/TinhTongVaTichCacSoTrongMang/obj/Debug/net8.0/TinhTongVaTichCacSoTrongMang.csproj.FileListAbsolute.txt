@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\bin\Debug\net8.0\TinhTongVaTichCacSoTrongMang.exe
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\bin\Debug\net8.0\TinhTongVaTichCacSoTrongMang.deps.json
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\bin\Debug\net8.0\TinhTongVaTichCacSoTrongMang.runtimeconfig.json
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\bin\Debug\net8.0\TinhTongVaTichCacSoTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\bin\Debug\net8.0\TinhTongVaTichCacSoTrongMang.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.sourcelink.json
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\refint\TinhTongVaTichCacSoTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\TinhTongVaTichCacSoTrongMang.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TinhTongVaTichCacSoTrongMang\obj\Debug\net8.0\ref\TinhTongVaTichCacSoTrongMang.dll

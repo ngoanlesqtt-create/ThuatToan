@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\bin\Debug\net8.0\TimHaiSoLonNhatTrongMang.exe
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\bin\Debug\net8.0\TimHaiSoLonNhatTrongMang.deps.json
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\bin\Debug\net8.0\TimHaiSoLonNhatTrongMang.runtimeconfig.json
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\bin\Debug\net8.0\TimHaiSoLonNhatTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\bin\Debug\net8.0\TimHaiSoLonNhatTrongMang.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.sourcelink.json
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\refint\TimHaiSoLonNhatTrongMang.dll
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\TimHaiSoLonNhatTrongMang.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\MangMotChieu\TimHaiSoLonNhatTrongMang\obj\Debug\net8.0\ref\TimHaiSoLonNhatTrongMang.dll

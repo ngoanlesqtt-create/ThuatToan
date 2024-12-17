@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\bin\Debug\net8.0\CanBangNguyenTo.exe
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\bin\Debug\net8.0\CanBangNguyenTo.deps.json
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\bin\Debug\net8.0\CanBangNguyenTo.runtimeconfig.json
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\bin\Debug\net8.0\CanBangNguyenTo.dll
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\bin\Debug\net8.0\CanBangNguyenTo.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.sourcelink.json
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.dll
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\refint\CanBangNguyenTo.dll
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.pdb
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\CanBangNguyenTo.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\MangMotChieu\CanBangNguyenTo\obj\Debug\net8.0\ref\CanBangNguyenTo.dll
