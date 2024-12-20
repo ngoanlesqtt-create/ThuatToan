@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\LeetCode\\ThuatToan\\NgonNguC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5EE0B60-FA20-4D5B-AC15-F347335DBD2A}|LoaiBoTuTrongXau\\LoaiBoTuTrongXau.csproj|d:\\leetcode\\thuattoan\\ngonnguc\\loaibotutrongxau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EE0B60-FA20-4D5B-AC15-F347335DBD2A}|LoaiBoTuTrongXau\\LoaiBoTuTrongXau.csproj|solutionrelative:loaibotutrongxau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901A8099-96B6-4D0A-A0BC-7E14A6E5419F}|KiemTraXauDoiXung\\KiemTraXauDoiXung.csproj|d:\\leetcode\\thuattoan\\ngonnguc\\kiemtraxaudoixung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901A8099-96B6-4D0A-A0BC-7E14A6E5419F}|KiemTraXauDoiXung\\KiemTraXauDoiXung.csproj|solutionrelative:kiemtraxaudoixung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B5C0D3-1890-41E7-BC01-9711F411A00F}|KiemTraSoTangGiam\\KiemTraSoTangGiam.csproj|d:\\leetcode\\thuattoan\\ngonnguc\\kiemtrasotanggiam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B5C0D3-1890-41E7-BC01-9711F411A00F}|KiemTraSoTangGiam\\KiemTraSoTangGiam.csproj|solutionrelative:kiemtrasotanggiam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{012AAF55-A271-454E-8D90-A0F08A39DECC}|Bai22\\Bai22.csproj|d:\\leetcode\\thuattoan\\ngonnguc\\bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{012AAF55-A271-454E-8D90-A0F08A39DECC}|Bai22\\Bai22.csproj|solutionrelative:bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,34 +105,76 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\LoaiBoTuTrongXau\\Program.cs",
+              "RelativeDocumentMoniker": "LoaiBoTuTrongXau\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\NgonNguC\\LoaiBoTuTrongXau\\Program.cs",
+              "RelativeToolTip": "LoaiBoTuTrongXau\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:19:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\KiemTraXauDoiXung\\Program.cs",
+              "RelativeDocumentMoniker": "KiemTraXauDoiXung\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\NgonNguC\\KiemTraXauDoiXung\\Program.cs",
+              "RelativeToolTip": "KiemTraXauDoiXung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:04:08.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\KiemTraSoTangGiam\\Program.cs",
+              "RelativeDocumentMoniker": "KiemTraSoTangGiam\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\NgonNguC\\KiemTraSoTangGiam\\Program.cs",
+              "RelativeToolTip": "KiemTraSoTangGiam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:33:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\Bai22\\Program.cs",
               "RelativeDocumentMoniker": "Bai22\\Program.cs",
               "ToolTip": "D:\\LeetCode\\ThuatToan\\NgonNguC\\Bai22\\Program.cs",
               "RelativeToolTip": "Bai22\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T10:22:14.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SoChinhPhuong",
+              "DocumentIndex": 5,
+              "Title": "SoChinhPhuong.csproj",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SoChinhPhuong\\SoChinhPhuong.csproj",
               "RelativeDocumentMoniker": "SoChinhPhuong\\SoChinhPhuong.csproj",
               "ToolTip": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SoChinhPhuong\\SoChinhPhuong.csproj",
               "RelativeToolTip": "SoChinhPhuong\\SoChinhPhuong.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T10:18:39.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T10:18:39.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\TimUocNguyenToLonNhatCuaMotSo\\Program.cs",
               "RelativeDocumentMoniker": "TimUocNguyenToLonNhatCuaMotSo\\Program.cs",
@@ -128,12 +182,11 @@
               "RelativeToolTip": "TimUocNguyenToLonNhatCuaMotSo\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:07:44.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T10:07:44.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SoSmith\\Program.cs",
               "RelativeDocumentMoniker": "SoSmith\\Program.cs",
@@ -141,12 +194,11 @@
               "RelativeToolTip": "SoSmith\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T09:55:42.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T09:55:42.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\DemSo0tanCungCuaN!\\Program.cs",
               "RelativeDocumentMoniker": "DemSo0tanCungCuaN!\\Program.cs",
@@ -154,12 +206,11 @@
               "RelativeToolTip": "DemSo0tanCungCuaN!\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA6wAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T12:21:04.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T12:21:04.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\CacCapSoNguyenToCoTongBangN\\Program.cs",
               "RelativeDocumentMoniker": "CacCapSoNguyenToCoTongBangN\\Program.cs",
@@ -171,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\DemUocLaSoNguyenTo\\Program.cs",
               "RelativeDocumentMoniker": "DemUocLaSoNguyenTo\\Program.cs",
@@ -183,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\PhanTichThuaSoNguyenTo\\Program.cs",
               "RelativeDocumentMoniker": "PhanTichThuaSoNguyenTo\\Program.cs",
@@ -195,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\TuanSuatXuatHienKiTu\\Program.cs",
               "RelativeDocumentMoniker": "TuanSuatXuatHienKiTu\\Program.cs",
@@ -207,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\DemSoLanXuatHienCuaPhanTuTrongXau\\Program.cs",
               "RelativeDocumentMoniker": "DemSoLanXuatHienCuaPhanTuTrongXau\\Program.cs",
@@ -219,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SoChinhPhuong\\Program.cs",
               "RelativeDocumentMoniker": "SoChinhPhuong\\Program.cs",
@@ -227,16 +278,11 @@
               "RelativeToolTip": "SoChinhPhuong\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA6wBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:40:59.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-12-17T17:40:59.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\VeHinhTamGiac\\Program.cs",
               "RelativeDocumentMoniker": "VeHinhTamGiac\\Program.cs",
@@ -248,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\VeHinhChuNhat\\Program.cs",
               "RelativeDocumentMoniker": "VeHinhChuNhat\\Program.cs",
@@ -260,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\TinhGiaiThua\\Program.cs",
               "RelativeDocumentMoniker": "TinhGiaiThua\\Program.cs",
@@ -272,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\Bai5\\Program.cs",
               "RelativeDocumentMoniker": "Bai5\\Program.cs",
@@ -284,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SangSoNguyenToTrenDoan\\Program.cs",
               "RelativeDocumentMoniker": "SangSoNguyenToTrenDoan\\Program.cs",
@@ -296,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\SangSoNguyenTo\\Program.cs",
               "RelativeDocumentMoniker": "SangSoNguyenTo\\Program.cs",
@@ -308,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\NgonNguC\\KiemTraSoNguyenTo\\Program.cs",
               "RelativeDocumentMoniker": "KiemTraSoNguyenTo\\Program.cs",

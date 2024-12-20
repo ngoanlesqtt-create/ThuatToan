@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\bin\Debug\net8.0\LoaiBoTuTrongXau.exe
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\bin\Debug\net8.0\LoaiBoTuTrongXau.deps.json
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\bin\Debug\net8.0\LoaiBoTuTrongXau.runtimeconfig.json
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\bin\Debug\net8.0\LoaiBoTuTrongXau.dll
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\bin\Debug\net8.0\LoaiBoTuTrongXau.pdb
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.sourcelink.json
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.dll
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\refint\LoaiBoTuTrongXau.dll
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.pdb
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\LoaiBoTuTrongXau.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\NgonNguC\LoaiBoTuTrongXau\obj\Debug\net8.0\ref\LoaiBoTuTrongXau.dll
