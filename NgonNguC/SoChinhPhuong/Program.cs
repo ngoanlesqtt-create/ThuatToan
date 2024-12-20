@@ -18,6 +18,6 @@
             c1++;
 
         for (int i = c1; i <= c2; i++)
-            Console.WriteLine(i * i);
+            Console.WriteLine(i * i);   
     }
 }
