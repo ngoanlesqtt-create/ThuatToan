@@ -1,0 +1,15 @@
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\bin\Debug\net8.0\Bai36.exe
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\bin\Debug\net8.0\Bai36.deps.json
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\bin\Debug\net8.0\Bai36.runtimeconfig.json
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\bin\Debug\net8.0\Bai36.dll
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\bin\Debug\net8.0\Bai36.pdb
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.AssemblyInfoInputs.cache
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.AssemblyInfo.cs
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.csproj.CoreCompileInputs.cache
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.sourcelink.json
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.dll
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\refint\Bai36.dll
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.pdb
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\Bai36.genruntimeconfig.cache
+D:\LeetCode\ThuatToan\BaiTapThayKhang\BaiTapThayKhang\Bai36\obj\Debug\net8.0\ref\Bai36.dll
