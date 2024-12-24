@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29B787-9EA8-4D0B-B2E7-BDC449157E5E}|Bai33\\Bai33.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29B787-9EA8-4D0B-B2E7-BDC449157E5E}|Bai33\\Bai33.csproj|solutionrelative:bai33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BDFD79-E688-49CB-937B-DDF6A006948B}|Bai32\\Bai32.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BDFD79-E688-49CB-937B-DDF6A006948B}|Bai32\\Bai32.csproj|solutionrelative:bai32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985BD3A7-252B-4A55-9141-E374594EA814}|Bai31\\Bai31.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985BD3A7-252B-4A55-9141-E374594EA814}|Bai31\\Bai31.csproj|solutionrelative:bai31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A215B-E5E4-4030-A7C4-017F6545C15C}|Bai30\\Bai30.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A215B-E5E4-4030-A7C4-017F6545C15C}|Bai30\\Bai30.csproj|solutionrelative:bai30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C869493-944A-4F6C-9005-FA104B50A81A}|Bai28\\Bai28.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C869493-944A-4F6C-9005-FA104B50A81A}|Bai28\\Bai28.csproj|solutionrelative:bai28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7F6C72-32BF-4DB9-819B-E5674FDEFB01}|Bai27\\Bai27.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7F6C72-32BF-4DB9-819B-E5674FDEFB01}|Bai27\\Bai27.csproj|solutionrelative:bai27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610C4DBC-A365-4650-BE42-5B1BD9A4C171}|Bai26\\Bai26.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610C4DBC-A365-4650-BE42-5B1BD9A4C171}|Bai26\\Bai26.csproj|solutionrelative:bai26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588269BA-CF6E-4E48-83CE-EB46DBE6C289}|Bai25\\Bai25.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588269BA-CF6E-4E48-83CE-EB46DBE6C289}|Bai25\\Bai25.csproj|solutionrelative:bai25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B570C762-EB05-4B32-B822-7F1EF52EAED1}|Bai24\\Bai24.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B570C762-EB05-4B32-B822-7F1EF52EAED1}|Bai24\\Bai24.csproj|solutionrelative:bai24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9633E4-631F-4CCC-8804-151C863B02B9}|Bai23\\Bai23.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9633E4-631F-4CCC-8804-151C863B02B9}|Bai23\\Bai23.csproj|solutionrelative:bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA46DFC-2B4E-48EB-99A7-A3F52498211E}|Bai22\\Bai22.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA46DFC-2B4E-48EB-99A7-A3F52498211E}|Bai22\\Bai22.csproj|solutionrelative:bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783FF099-1EFB-400F-B9C2-3192A3A53570}|Bai21\\Bai21.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783FF099-1EFB-400F-B9C2-3192A3A53570}|Bai21\\Bai21.csproj|solutionrelative:bai21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783FF099-1EFB-400F-B9C2-3192A3A53570}|Bai21\\Bai21.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai21\\bai21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{783FF099-1EFB-400F-B9C2-3192A3A53570}|Bai21\\Bai21.csproj|solutionrelative:bai21\\bai21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E4F275-EFC5-491D-848F-2B8FF529E9ED}|Bai20\\Bai20.csproj|d:\\leetcode\\thuattoan\\baitapthaykhang\\baitapthaykhang\\bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4F275-EFC5-491D-848F-2B8FF529E9ED}|Bai20\\Bai20.csproj|solutionrelative:bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai33\\Program.cs",
+              "RelativeDocumentMoniker": "Bai33\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai33\\Program.cs*",
+              "RelativeToolTip": "Bai33\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:23:13.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai32\\Program.cs",
+              "RelativeDocumentMoniker": "Bai32\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai32\\Program.cs",
+              "RelativeToolTip": "Bai32\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:17:25.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai31\\Program.cs",
+              "RelativeDocumentMoniker": "Bai31\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai31\\Program.cs",
+              "RelativeToolTip": "Bai31\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:14:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai30\\Program.cs",
+              "RelativeDocumentMoniker": "Bai30\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai30\\Program.cs",
+              "RelativeToolTip": "Bai30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:06:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai28\\Program.cs",
+              "RelativeDocumentMoniker": "Bai28\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai28\\Program.cs",
+              "RelativeToolTip": "Bai28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:02:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai27\\Program.cs",
+              "RelativeDocumentMoniker": "Bai27\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai27\\Program.cs",
+              "RelativeToolTip": "Bai27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:00:00.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai26\\Program.cs",
+              "RelativeDocumentMoniker": "Bai26\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai26\\Program.cs",
+              "RelativeToolTip": "Bai26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:52:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai25\\Program.cs",
+              "RelativeDocumentMoniker": "Bai25\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai25\\Program.cs",
+              "RelativeToolTip": "Bai25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:46:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai24\\Program.cs",
+              "RelativeDocumentMoniker": "Bai24\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai24\\Program.cs",
+              "RelativeToolTip": "Bai24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:39:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai23\\Program.cs",
+              "RelativeDocumentMoniker": "Bai23\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai23\\Program.cs",
+              "RelativeToolTip": "Bai23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:35:58.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai22\\Program.cs",
+              "RelativeDocumentMoniker": "Bai22\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai22\\Program.cs",
+              "RelativeToolTip": "Bai22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:25:32.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai21",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai21\\Bai21.csproj",
+              "RelativeDocumentMoniker": "Bai21\\Bai21.csproj",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai21\\Bai21.csproj",
+              "RelativeToolTip": "Bai21\\Bai21.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T09:24:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai21\\Program.cs",
+              "RelativeDocumentMoniker": "Bai21\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai21\\Program.cs",
+              "RelativeToolTip": "Bai21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:19:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai20\\Program.cs",
+              "RelativeDocumentMoniker": "Bai20\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\ThuatToan\\BaiTapThayKhang\\BaiTapThayKhang\\Bai20\\Program.cs",
+              "RelativeToolTip": "Bai20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:12:08.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
